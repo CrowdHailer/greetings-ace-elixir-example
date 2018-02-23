@@ -21,6 +21,7 @@ defmodule Greetings.MixProject do
   defp deps do
     [
       {:ace, "~> 0.15.9"},
+      {:expug, "~> 0.9.2"}
     ]
   end
 end
